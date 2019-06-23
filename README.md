@@ -10,6 +10,6 @@ Or download the file manually.
 * 0.1
    * Opened Repository (06.22.2019)
 ## Meta
-Michael Peters - *enter additional contact information here*
+Michael Peters - michael@michaelpeterswa.com
 
-Distributed under the ____ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
