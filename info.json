@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "Callsign",
+            "version": "0.1",
+            "description": "This is a command line tool for getting information about an amateur radio callsign.",
+            "longDescription": "This tool uses the callook.info API, requests, and argparse to give information about a specific amateur radio user based upon their callsign, with configurable flags to change the output.",
+            "githubLink": "https://github.com/michaelpeterswa/Callsign",
+            "date": "06.22.2019"
+        }
+    ]
+}
